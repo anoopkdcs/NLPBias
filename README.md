@@ -13,9 +13,9 @@ diff
 - The examples provided in this paper is offensive in nature and may hurt your moral beliefs
 </br>
 
-    <p style='color:red'>This is some red text.</p>
-    <font color="red">This is some text!</font>
-    These are <b style='color:red'>red words</b>.
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
 
 
 For other inquiries, please contact: </br>
