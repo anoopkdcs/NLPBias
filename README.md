@@ -14,8 +14,8 @@ diff
 </br>
 
 <p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
+<font color="green">This is some text!</font>
+These are <b style='color:blur'>red words</b>.
 
 
 For other inquiries, please contact: </br>
