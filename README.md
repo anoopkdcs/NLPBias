@@ -6,7 +6,7 @@ Anoop K<sup>1</sup>, Manjary P Gangan<sup>1</sup>, Deepak P<sup>2,3</sup>  and L
 <sup>2</sup>Queen’s University Belfast, UK </br>
 <sup>3</sup>Indian Institute of Technology Madras, India
 
-:memo: Paper : https:# </br>
+:memo: Paper : Link </br>
 
 **Abstract**: Remarkable progress in Natural Language Processing (NLP) brought by deep learning, particularly with the recent advent of large pre-trained neural language models, is injured as several studies began to discuss and report potential biases in NLP applications. Bias in NLP is found to originate from latent historical biases encoded by humans into textual data which gets perpetuated or even amplified by NLP algorithm. We present a survey to comprehend bias in large pre-trained language models, the stages at which they occur in these models, and
 various ways in which these biases are quantified and mitigated. Considering wide applicability of textual affective computing based downstream tasks in real-world systems such as business, healthcare, education, etc.,
@@ -21,5 +21,5 @@ Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in
 
 ## Citation
 ```
-
+will update soon
 ```
