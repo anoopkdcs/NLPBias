@@ -1,2 +1,2 @@
-# Ressources
+# Resources
 Content will update soon
