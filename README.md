@@ -3,7 +3,6 @@
 **Towards Comprehensive Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias** </br>
 Anoop K<sup>1</sup>, Manjary P Gangan<sup>1</sup>, Deepak P<sup>2,3</sup>  and Lajish V L<sup>1</sup> </br>
 <sup>1</sup>Computational Intelligence and Data Analytics (CIDA Lab) </br>
-Department of Computer Science </br>
 University of Calicut, India </br>
 <sup>2</sup>Queen’s University Belfast, UK </br>
 <sup>3</sup>Indian Institute of Technology Madras, India
