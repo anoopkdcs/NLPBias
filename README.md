@@ -1,5 +1,5 @@
 # Bias in Pre-trained Neural Language Models
-<img src= 'img/plm_bias.png'> </br>
+<img src= 'img/plm_bias.png' max-width:50%; max-height:50%;> </br>
 **Towards Comprehensive Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias** </br>
 Anoop K<sup>1</sup>, Manjary P Gangan<sup>1</sup>, Deepak P<sup>2,3</sup>  and Lajish V L<sup>1</sup> </br>
 <sup>1</sup>University of Calicut, Kerala, India </br>
