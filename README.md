@@ -14,12 +14,6 @@ Anoop K<sup>1</sup>, Manjary P Gangan<sup>1</sup>, Deepak P<sup>2,3</sup>  and L
 
  :warning: The examples provided in this paper is offensive in nature and may hurt your moral beliefs
 
-
-<p style='color:red'>This is some red text.</p>
-<font color="green">This is some text!</font>
-These are <b style='color:blur'>red words</b>.
-
-
 For other inquiries, please contact: </br>
 Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
 Manjary P Gangan :email: manjaryp_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
