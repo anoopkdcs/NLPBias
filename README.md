@@ -16,8 +16,8 @@ future research and discuss challenges in the research on bias in pretrained lan
 For other inquiries, please contact: </br>
 Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
 Manjary P Gangan :email: manjaryp_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
-Deepak P :email: manjaryp_dcs@uoc.ac.in :earth_asia: [website](http://dpadmanabhan.public.cs.qub.ac.uk/) </br>
-Lajish V L :email: deepaksp@acm.org :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
+Deepak P :email: deepaksp@acm.org :earth_asia: [website](http://dpadmanabhan.public.cs.qub.ac.uk/) </br>
+Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
 
 ## Citation
 ```
