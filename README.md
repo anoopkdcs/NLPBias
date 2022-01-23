@@ -1,2 +1,2 @@
-# Algorithmic Bias in Pre-trained Neural Language Models: A Special Emphasis on Affective Bias 
+# Algorithmic Bias in Pre-trained Neural Language Models
 <img src= 'img/plm_bias.png'>
