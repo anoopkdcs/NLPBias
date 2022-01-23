@@ -12,7 +12,7 @@ Anoop K<sup>1</sup>, Manjary P Gangan<sup>1</sup>, Deepak P<sup>2,3</sup>  and L
 various ways in which these biases are quantified and mitigated. Considering wide applicability of textual affective computing based downstream tasks in real-world systems such as business, healthcare, education, etc.,
 we give a special emphasis on investigating bias in the context of affect (emotion) i.e., Affective Bias, in large pre-trained language models. We present a summary of various bias evaluation corpora that help to aid
 future research and discuss challenges in the research on bias in pretrained language models. We believe that our attempt to draw a comprehensive view of bias in pre-trained language models, and especially the exploration of affective bias will be highly beneficial to acquire deep knowledge on recent paradigms in this area of research. 
-<p style="color:red;"> <i>The examples provided in this paper is offensive in nature and may hurt your moral beliefs</i></p> </br>
+<p style="color:red;"> <i>The examples provided in this paper is offensive in nature and may hurt your moral beliefs</i></p> 
 For other inquiries, please contact: </br>
 Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
 Manjary P Gangan :email: manjaryp_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
