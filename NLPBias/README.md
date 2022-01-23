@@ -1,3 +1,3 @@
 # Bias in NLP
 Content will update soon
-<img src= 'img/heterogenous.png'>
+<img src= 'https://github.com/anoopkdcs/NLPBias/blob/main/img/heterogenous.png'>
