@@ -20,5 +20,10 @@ Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in
 
 ## Citation
 ```
-will update soon
+@misc{anoop2022towards,
+  title={Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias},
+  author={Anoop, K and Manjary, P Gangan and Deepak, P and Lajish, VL},
+  journal={arXiv preprint: arXiv:2204.10365},
+  year={2022}
+}
 ```
