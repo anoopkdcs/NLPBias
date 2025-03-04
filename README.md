@@ -1,7 +1,7 @@
 # Bias in Pre-trained Neural Language Models
 <img src= 'img/plm_bias.png' > </br>
-**Towards Comprehensive Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias** </br>
-Anoop K<sup>1</sup>, Manjary P Gangan<sup>1</sup>, Deepak P<sup>2</sup>  and Lajish V L<sup>1</sup> </br>
+## Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias </br>
+Anoop Kadan<sup>1</sup>, Manjary P. Gangan<sup>1</sup>, Deepak P.<sup>2</sup>  and Lajish V. L.<sup>1</sup> </br>
 <sup>1</sup>University of Calicut, Kerala, India </br>
 <sup>2</sup>Queen’s University Belfast, UK </br>
 
@@ -14,17 +14,21 @@ Anoop K<sup>1</sup>, Manjary P Gangan<sup>1</sup>, Deepak P<sup>2</sup>  and Laj
 
 
 For other inquiries, please contact: </br>
-Anoop K :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
-Manjary P Gangan :email: manjaryp_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
-Deepak P :email: deepaksp@acm.org :earth_asia: [website](http://dpadmanabhan.public.cs.qub.ac.uk/) </br>
-Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
+&nbsp; Anoop Kadan, University of Southampton, UK. :email: anoopkadan23@gmail.com :earth_asia: [website](https://www.southampton.ac.uk/people/65qvt5/doctor-anoop-kadan)</br>
+&nbsp; Manjary P. Gangan, University of Calicut, Kerala, India. :email: manjaryp@gmail.com :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
+
 
 ## Citation
 ```
-@misc{anoop2022towards,
-  title={Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias},
-  author={Anoop, K and Manjary, P Gangan and Deepak, P and Lajish, VL},
-  journal={arXiv preprint: arXiv:2204.10365},
-  year={2022}
+@InProceedings{anoop2022towards,
+author={Kadan, Anoop and Gangan, Manjary P. and P., Deepak and V. L., Lajish},
+title="{Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias},
+booktitle={Responsible Data Science},
+year={2022},
+publisher={Springer Nature Singapore},
+address={Singapore},
+pages={13--45},
+isbn={978-981-19-4453-6},
+doi={https://doi.org/10.1007/978-981-19-4453-6_2}
 }
 ```
